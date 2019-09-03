@@ -1,3 +1,8 @@
+UPDATE: Deprecation Notice
+==========================
+
+This version of the Wistia documentation is not maintained and contains old, incorrect, or unsupported information. For up-to-date information on the Wistia documentation please visit [wistia.com/support](https://www.wistia.com/support).
+
 Wistia Documentation
 ====================
 
